@@ -124,7 +124,7 @@ img {
 
 @media only screen and (max-width: 599px) {
   :root {
-    font-size: 11.5px;
+    font-size: 0.7188rem;
   }
   .single-log-box {
     flex-direction: column;
@@ -156,7 +156,7 @@ img {
 }
 @media only screen and (max-width: 450px) {
   :root {
-    font-size: 10.5px;
+    font-size: 0.6563rem;
   }
   .main {
     padding: 0.8rem 1rem;
@@ -166,7 +166,7 @@ img {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (min-width: 600px) {
   :root {
-    font-size: 12px;
+    font-size: 0.75rem;
   }
   .main {
     padding: 1rem 7rem;
@@ -178,7 +178,7 @@ img {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 750px) {
   :root {
-    font-size: 13px;
+    font-size: 0.8125rem;
   }
   ...;
 }
@@ -186,21 +186,21 @@ img {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 826px) {
   :root {
-    font-size: 14px;
+    font-size: 0.875rem;
   }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   :root {
-    font-size: 17px;
+    font-size: 1.0625rem;
   }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   :root {
-    font-size: 18px;
+    font-size: 1.125rem;
   }
   ...;
 }
